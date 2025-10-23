@@ -3,7 +3,7 @@
 ## Descripción
 
 Este repositorio contiene el código y la documentación correspondiente a las prácticas realizadas en el curso de "Tópicos Selectos de Dispositivos Móviles Híbridos (DMD-2301)", impartido por el Mtro. Tenorio Galván Juan Fernando.
-
+Segundo Parcial.
 ## Prácticas
 
 A continuación, se presenta un resumen de las prácticas realizadas:
