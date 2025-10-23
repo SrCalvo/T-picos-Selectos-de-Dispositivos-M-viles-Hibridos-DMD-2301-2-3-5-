@@ -40,13 +40,13 @@ Para ejecutar este proyecto de React Native, sigue los siguientes pasos:
 2.  **Crea un nuevo proyecto de React Native:**
 
     ```bash
-    npx @react-native-community/cli init catalogo
+    npx @react-native-community/cli init ejemplo1
     ```
 
 3.  **Navega al directorio del proyecto:**
 
     ```bash
-    cd catalogo
+    cd ejemplo1
     ```
 
 4.  **Ejecuta la aplicación en un emulador Android:**
