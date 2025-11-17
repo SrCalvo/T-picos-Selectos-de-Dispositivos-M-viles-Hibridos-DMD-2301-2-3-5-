@@ -17,7 +17,9 @@ A continuación, se presenta un resumen de las prácticas realizadas:
     *   **Descripción:** Desarrollo de una galería de imágenes básica, incluyendo la visualización y navegación entre imágenes.
 *   **Práctica 4: Catálogo de Productos**
     *   **Descripción:** Extensión de la galería de imágenes para crear un catálogo básico de productos.
-
+## Proyecto Segundo Parcial
+  *   **Descripción:** Realiza la unión de todas las practicas en una sola.
+  *   **Video De Funcionamiento:** https://youtu.be/SQ4MM_ddmkA?si=KxEs7CRt9Ml5YFsD
 ## Estructura del Repositorio
 
 *   `act/`: Contiene el código y recursos de la Práctica 1.
